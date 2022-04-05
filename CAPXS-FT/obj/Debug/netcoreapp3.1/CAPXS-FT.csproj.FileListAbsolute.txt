@@ -1,0 +1,118 @@
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.exe
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.deps.json
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.runtimeconfig.json
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.runtimeconfig.dev.json
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.pdb
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\Emgu.CV.Platform.NetStandard.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.csproj.AssemblyReference.cache
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.csproj.GenerateResource.cache
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.AssemblyInfoInputs.cache
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.AssemblyInfo.cs
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.csproj.CoreCompileInputs.cache
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.csproj.CopyComplete
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.pdb
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.genruntimeconfig.cache
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\Emgu.CV.Bitmap.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\Emgu.CV.Platform.NetCore.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS_FT.AlignmentTest.resources
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\concrt140.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\cvextern.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\cvextern.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\concrt140.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\lreyes5\csharp\projects\WinFormsApp1\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.exe
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.deps.json
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.runtimeconfig.json
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.runtimeconfig.dev.json
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\CAPXS-FT.pdb
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\Emgu.CV.Platform.NetStandard.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\Emgu.CV.Bitmap.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\Emgu.CV.Platform.NetCore.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\cvextern.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\cvextern.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\concrt140.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\concrt140.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.csproj.AssemblyReference.cache
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS_FT.AlignmentTest.resources
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.csproj.GenerateResource.cache
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.AssemblyInfoInputs.cache
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.AssemblyInfo.cs
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.csproj.CoreCompileInputs.cache
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.csproj.CopyComplete
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.dll
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.pdb
+C:\Users\lreyes5\OneDrive - The Chamberlain Group, Inc\Documents\lreyes5\Repos\capxs_camalign\CAPXS-FT\obj\Debug\netcoreapp3.1\CAPXS-FT.genruntimeconfig.cache
